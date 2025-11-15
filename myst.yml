@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: c01dea9b-a0a0-480d-9c9a-b17175fa36c0
+  title: বাংলায় মেশিন লার্নিং
+  description: বাংলা ভাষায় মেশিন লার্নিং শেখার সম্পূর্ণ গাইড
+  keywords: [মেশিন লার্নিং, বাংলা, বই]
+  authors: [জারিফ]
+  github: roundspecs/bangla-ml-book
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
